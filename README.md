@@ -1,3 +1,7 @@
 # Python_SS_24_KomKreate
 
-Our group will create a project in which the users enters their "Monthly Sales Report" using a GUI. The user can compare their the Sales Report to the other Sales Reports, resulting in a comparable graph
+Unsere Gruppe wird ein Projekt erstellen, in dem der Benutzer seinen "monatlichen Umsatzbericht" über eine grafische Benutzeroberfläche eingibt. Der Benutzer kann seinen Umsatzbericht mit den anderen Umsatzberichten vergleichen, was zu einer vergleichbaren Grafik führt
+
+unsere Datei main.py wird in Sign_Up_Page.py umbenannt. Sie ist die Startseite unseres Projekts.
+
+Documentation.pdf
